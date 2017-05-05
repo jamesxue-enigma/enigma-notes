@@ -1,0 +1,18 @@
+get a list of needs (data)
+- FTE % spends per person for all time -> roll this into OKRs. “how much time will you be dedicating this quarter to X, Y, and Z by % of your time?”
+- Monthly look back and look forward summaries for managers
+
+need to dos (tasks)
+- Functions for inserting and updating the data (including safety checks, i.e. not overbooking employee for time unit)
+- provide for overflow -> 40k cells, new sheet, be able to look back up conveniently
+- functions to query data to generate the visualization
+- denote not real vs real projects/employees (binary label for real/not real)
+- add a new table for employees: Cols: [employee name, skill, project, month, FTE]
+- be able to pivot between projects and skills, as well as between staffing status/team currently allocated
+- build functionality to allow to toggle off
+- it would be nice to be able to prevent assignment of an employee to an improper skill field
+and open questions
+- are the job roles a good start for now? (we can provide for ways to expand field answer sets later.
+- full list of all projects - *note that I currently show all skills for each project, so that there are no edge cases, despite this resulting in a sparsely populated matrix
+   - marketing, commercial, ops, design, product, what is the best way to break out skills? analyst, sr analyst, managers? everyone could just be project management
+- required staffing by project?
