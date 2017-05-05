@@ -1,0 +1,75 @@
+LINKS
+
+My github: 
+https://github.com/users/jamesxue-enigma
+
+My test page: 
+https://enigma-io.atlassian.net/wiki/display/JTS/Test+page
+
+Spec for commons: 
+https://docs.google.com/document/d/1T2riboSJzY4JaiUOLML2OdUbfKob4gOhBbFnNx_Mx6k/edit
+
+My onboarding plan: 
+https://docs.google.com/document/d/10D9_ngvJ-HjVIzH6Y-ZSVlF3PnAeeS55-fXlHvdjemc/edit
+
+
+Boundless:
+https://github.com/enigma-io/boundless
+
+
+Port Commons to Confluence on JIRA: 
+https://enigma-io.atlassian.net/issues/?jql=text%20~%20%22commons%22
+
+Using JS in Confluence (not Cloud): 
+https://confluence.atlassian.com/confkb/how-to-use-javascript-in-confluence-313458839.html
+For security reasons, the HTML Macro is not available in Confluence Cloud.
+
+Sheets API, authorized requests: 
+https://developers.google.com/google-apps/spreadsheets/authorize
+
+Google Drive macros: 
+https://confluence.atlassian.com/confcloud/google-drive-macros-737182322.html
+
+Markdown content: 
+https://github.com/enigma-assembly/intranet-contents
+Front page visualizations:
+https://github.com/enigma-assembly/commons/tree/d94f2168f6faaf6221efcec8301afe4d5ad9c265/intranet-app/assets
+
+
+Commons feedback: 
+https://docs.google.com/spreadsheets/d/1xtavkljobdfcjv3w9C_ujHJLTpP1paRjeVv9gDVLH0g/edit?ts=58a5e47b#gid=354437852
+
+
+
+
+
+HTML Macro for Confluence Cloud:
+https://marketplace.atlassian.com/plugins/biz.artemissoftware.confluence.html.HtmlMacro/cloud/overview
+Wiki: https://artemis.atlassian.net/wiki/display/HFCM/HTML%20for%20Cloud%20Macro
+
+Embed D3.js in blog post:
+http://www.biovisualize.com/2012/07/embedding-d3js-in-blog-post.html
+https://stackoverflow.com/questions/22651346/how-to-embed-a-d3-js-example-to-the-jekyll-blog-post
+CDN is rawgit
+
+Time series example (Commons): http://commons.enigma/assets/scripts/dash-modules/time-series.js?v=1.31
+
+Operations space: https://enigma-io.atlassian.net/wiki/spaces/OP
+
+Rawgit: https://rawgit.com/
+
+Credentials for Google Sheets API Console:
+https://console.developers.google.com/apis/credentials?project=commonstoconfluence&authuser=1
+
+
+Another option: Piktochart. 
++ Automatically synced with Google spreadsheets. 
++ Can be embedded
+Visualizations not as customizable. 
+
+Google sheets: https://developers.google.com/chart/interactive/docs/spreadsheets
+https://developers.google.com/chart/interactive/docs/spreadsheets#gid
+
+C3.js:
+http://c3js.org/samples/timeseries.html
+http://c3js.org/examples.html
