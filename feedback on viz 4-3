@@ -1,0 +1,69 @@
+Feedback on viz (4/3)
+main view
+
+Logically separate pages (people view) from filters 
+bar or space between pages/nav
+or second nav
+
+Get rid of Provided/required in legend
+
+Remove the functionality of toggling the legend
+
+Realign the bars to the x axis and y axis (move forward a bit
+move months forward a bit
+move provided/required a bit to the right more
+
+for zero data, start the y-axis at 0 (not negative)
+
+add a tooltip (value above pairs) to show difference between provided and required bar pairs (each month
+
+add a tooltip (on hover) to show difference between provided and required bar pairs for specific skill 
+
+default to all selected for all projects, skills, months
+
+uncaught typerror in 
+Uncaught TypeError: Cannot read property '1' of undefined
+    at create_chart (script.js:403)
+    at HTMLInputElement.<anonymous> (script.js:547)
+    at HTMLInputElement.dispatch (jquery-3.1.1.min.js:3)
+deselecting data science in analytics team when everything selected
+
+cut everything but aggregate view
+update aggregate view whenever it’s updated
+
+add additional view: allow to break down the bars by project, not by skill
+(aggregate by skill)
+
+add current time, 1month, 3month, 6month projections
+wanna see back in time too
+
+toggle a button for real/not real 
+
+instead of axes selection - display options
+y-axis 
+person or project breakdown
+hypothetical mode (real with 0 value, all employees including 0 values)
+
+
+people view
+
+group by person, not by month
+add some whitespace between people
+1 table for each person
+link to each person on tooltip for main view (add search bar that changes url with query)
+get rid of nav stuff
+link back to main view (not just the title)
+cap months to 3 months in the future
+projects and skills might be unnecessary for people list
+
+
+projects view
+add title
+each skill on its own project
+add max for max number of skills needed across time
+
+columns: 1 for each month
+row: 1 for each skill
+for each cell, add however many of each skill is needed (both on text and in a bar?), and on hover people that need to be staffed 
+be able to edit each cell (maybe an edit mode pencil? or a separate form)
+have a search bar as well 
