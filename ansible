@@ -1,0 +1,1 @@
+trying to update the metrics.yml by running ansible-vault on this file (https://github.com/enigma-assembly/commons/blob/d94f2168f6faaf6221efcec8301afe4d5ad9c265/automation/group_vars/enigma_secret_vars.yml)) to decrypt it, edit it, then re-encrypt it (these are Alex’s instructions). 
